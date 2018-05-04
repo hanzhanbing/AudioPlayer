@@ -1,0 +1,23 @@
+[
+ {
+    "music_id":10000,
+    "name":"I Believe",
+    "icon":"http://p3.music.126.net/1W118vLAePcixn_Ckg2xUQ==/1376588561547944.jpg",
+    "fileName":"http://music.163.com/song/media/outer/url?id=407679949.mp3",
+    "singer": "张信哲"
+ },
+ {
+    "music_id":10001,
+    "name":"LIAR LIAR",
+    "icon": "http://p3.music.126.net/THS5HMOjmKNDDCj9G0ROyQ==/1376588561547947.jpg",
+    "fileName":"http://m2.music.126.net/dUZxbXIsRXpltSFtE7Xphg==/1375489050352559.mp3",
+    "singer":"OH MY GIRL"
+ },
+ {
+    "music_id":10002,
+    "name":"正义之手",
+    "icon":"http://p3.music.126.net/xXrsv_rI6Qucb1dxibve4A==/3272146615759748.jpg",
+    "fileName":"http://music.163.com/song/media/outer/url?id=407679997.mp3",
+    "singer":"SNH48"
+ }
+]
